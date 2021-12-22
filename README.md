@@ -1,2 +1,2 @@
 # demo-reusable-workflows
-Some demo of reusable Github actions workflows
+Some demos of reusable Github actions workflows

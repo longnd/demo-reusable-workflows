@@ -1,0 +1,10 @@
+name: Rebase
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  publish:
+    name: Rebase
+    uses: nimblehq/github-actions-workflows/.github/workflows/rebase.yml@feature/rebase-workflow
